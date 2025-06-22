@@ -126,7 +126,8 @@ See [paste.txt][1] for details on data collection and assumptions.
 
 ## References
 
-- [Project Report and Analysis (paste.txt)][1]
+- [Project Report and Analysis](https://github.com/rahulkhichar7/Assessing-Sand-and-Gravel-Demand-in-India-Trends-Forecast-and-The-Need-for-Alternatives/blob/main/Assessing%20Sand%20and%20Gravel%20Demand%20in%20India_%20Trends%2C%20Forecast%2C%20and%20The%20Need%20for%20Alternatives.pdf)
+
 - Sustainable Sand Mining Management Guidelines, Ministry of Environment, Forest and Climate Change, Government of India[2]
 - USGS Mineral Commodity Summaries
 - CEIC Data, Population Projection: Single Year — India
