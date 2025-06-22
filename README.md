@@ -1,7 +1,5 @@
 # Assessing Sand and Gravel Demand in India: Trends, Forecast, and The Need for Alternatives
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Project-blue?.com/rahulkhichar7/Assessing-Sand-and-Gravel-Demand-in-India-Trends-Forecast-and-The-Need-for-Alternatives
-
 This repository contains code and data for the research project **"Assessing Sand and Gravel Demand in India: Trends, Forecast, and The Need for Alternatives"**. The project analyzes historical sand and gravel extraction trends in India, explores their relationship with socio-economic factors, and forecasts future demand using advanced time-series models. The findings highlight the urgent need for sustainable alternatives and policy interventions to mitigate environmental impacts.
 
 ## Table of Contents
